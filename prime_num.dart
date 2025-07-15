@@ -1,5 +1,5 @@
 void main() {
-  int number = 269; // 7 को चेक करेंगे
+  int number = 269;
   bool prime = true;
 
   if (number <= 1) {
